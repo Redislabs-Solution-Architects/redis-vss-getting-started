@@ -20,7 +20,7 @@ The notebook includes code and examples using a synthetic dataset of bicycle des
 The notebook requires the following packages:
 
 - **redis (redis-py)**: https://pypi.org/project/redis/
-- **sentence_transformers**: https://pypi.org/project/sentence-transformers/
+- **Access to AWS Bedrock API otherwise sentence_transformers**: https://pypi.org/project/sentence-transformers/
 - **pandas**: https://pypi.org/project/pandas/
 - **numpy**: https://pypi.org/project/numpy/
 
