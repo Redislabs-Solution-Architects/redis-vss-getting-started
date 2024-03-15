@@ -4,7 +4,7 @@
 
 The enclosed Jupyter notebook demonstrates how to do semantic searches on unstructured data using vector similarity and Redis. It covers:
 
-- Generating vector embeddings for text data using SentenceTransformers
+- Generating vector embeddings for text data using Amazon Titan and or SentenceTransformers
 - Storing JSON documents containing text and vector embeddings in Redis
 - Creating a RediSearch index on the JSON data
 - Performing semantic searches using vector similarity queries
